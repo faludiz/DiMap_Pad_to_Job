@@ -1,4 +1,4 @@
-# DiMap_Pad_to_Job
+# DiMap Pad to Job
 
 Creates Geoidimeter Job file from DiMap Pad backup
 
